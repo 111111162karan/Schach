@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Schach_WPF")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+94accd16edf61d5aeabdb8256fc5a2cdfdb421f7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+741368580a7288045d13dbfb894281c0e87a94eb")]
 [assembly: System.Reflection.AssemblyProductAttribute("Schach_WPF")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Schach_WPF")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
